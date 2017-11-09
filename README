@@ -1,0 +1,2 @@
+Ipl winner prediction using hadoop and python. Predicting the match outcome between two teams based on venue And Toss Decision. During the course of the project I conducted a survey to analyse peoples prediction. The accuracy Of Peoples Prediction is also studied. 
+The same data is also analysed using Python To draw graphs using Pandas, Matplot And Seaborn libraries.
